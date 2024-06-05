@@ -14,7 +14,7 @@ Here are some of my notable projects:
 
 - [TaskScheduler](https://github.com/CerealAxis/TaskScheduler): Automate Scheduled Task Execution
 - [Plants-VS-Zombies](https://github.com/CerealAxis/Plants-VS-Zombies): Plants-VS-Zombies
-- [ISeeYou](https://github.com/CerealAxis/ISeeYou): ISeeYou
+- [ISeeYou](https://github.com/MC-XiaoHei/ISeeYou): ISeeYou
 
 ---
 
